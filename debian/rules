@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+export DEB_HOST_ARCH
+
+%:
+	dh $@ --buildsystem=cmake
+

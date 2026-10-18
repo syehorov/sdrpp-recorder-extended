@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: sdrpp-recorder-extended
+Source: https://github.com/syehorov/sdrpp-recorder-extended
+
+Files: *
+Copyright: Copyright 2026 Alexandre Rouma and contributors
+License: GPL-3
