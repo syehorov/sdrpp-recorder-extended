@@ -1,4 +1,4 @@
-# sdrpp-recorder-lossy
+# sdrpp-recorder-extended
 
 Modified version of SDR++ recorder module with ability to record MP3/OGG files.
 Depends on libmp3lame, libogg, libvorbis
